@@ -73,6 +73,10 @@ export default {
 				md: 'calc(var(--radius) - 2px)',
 				sm: 'calc(var(--radius) - 4px)'
 			},
+			fontFamily: {
+				'roboto': ['Roboto', 'sans-serif'],
+				'industrial': ['Roboto', 'Arial', 'sans-serif']
+			},
 			keyframes: {
 				'accordion-down': {
 					from: {
