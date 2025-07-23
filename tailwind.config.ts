@@ -61,7 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Loft industrial colors
+				charcoal: '#2C2C2C',
+				rust: '#8B4513',
+				burnt: '#D2691E',
+				industrial: '#F5F5DC'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
