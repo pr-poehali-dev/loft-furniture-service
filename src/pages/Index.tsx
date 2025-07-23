@@ -47,9 +47,7 @@ const Index = () => {
       <nav className="fixed top-0 w-full bg-charcoal/95 backdrop-blur-sm z-50 border-b border-burnt/20">
         <div className="container mx-auto px-6 py-4">
           <div className="flex justify-between items-center">
-            <div className="text-2xl font-bold text-white">
-              LOFT<span className="text-burnt">MEBEL</span>
-            </div>
+            <div className="text-2xl font-bold text-white">PRISMA</div>
             <div className="hidden md:flex space-x-8">
               {['Услуги', 'Изделия', 'О нас', 'Контакты'].map((item) => (
                 <button
